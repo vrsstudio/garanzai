@@ -2,7 +2,7 @@
     {
 	"name": "Starfin UA",
 	"age": "18-70",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/starfin.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/starfin.png",
     "rating": 4.9,
 	"sum_to": "50 000 руб",
 	"term_from": "1",
@@ -23,7 +23,7 @@
      {
 	"name": "Credit7",
 	"age": "18-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/Credit7s.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/Credit7s.png",
     "rating": 4.9,
 	"sum_to": "10 000 грн",
 	"term_from": "0,1%",
@@ -43,7 +43,7 @@
   {
 	"name": "Prostocredit",
 	"age": "18-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/prostocredit.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/prostocredit.png",
     "rating": 5,
 	"sum_to": "70 000 руб",
 	"term_from": "1",
@@ -63,7 +63,7 @@
   {
 	"name": "KACHAgroshi",
 	"age": "18-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/kachagrosh.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/kachagrosh.png",
     "rating": 4.7,
 	"sum_to": "15 000 грн",
 	"term_from": "1",
@@ -83,7 +83,7 @@
   {
 	"name": "AvansCredit",
 	"age": "18-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/ongroshi.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/ongroshi.png",
     "rating": 5.0,
 	"sum_to": "60 000 руб",
 	"term_from": "1",
@@ -103,7 +103,7 @@
   {
 	"name": "MILOAN",
 	"age": "18-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/miloan.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/miloan.png",
     "rating": 4.9,
 	"sum_to": "80 000 грн",
 	"term_from": "1",
@@ -123,7 +123,7 @@
   {
 	"name": "AlexCredit",
 	"age": "18-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/AlexСredit.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/AlexСredit.png",
     "rating": 4.9,
 	"sum_to": "80 000 грн",
 	"term_from": "1",
@@ -144,7 +144,7 @@
    {
 	"name": "ПростоГроші",
 	"age": "18-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/prostogroshi.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/prostogroshi.png",
     "rating": 5.0,
 	"sum_to": "30 000 грн",
 	"term_from": "1",
@@ -164,7 +164,7 @@
    {
 	"name": "Tengo",
 	"age": "18-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/tenduass.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/tenduass.png",
     "rating": 4.9,
 	"sum_to": "15 000 руб",
 	"term_from": "1",
@@ -185,7 +185,7 @@
   {
 	"name": "SelfieCredit",
 	"age": "18-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/selfiecredit.jpeg",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/selfiecredit.jpeg",
     "rating": 5,
 	"sum_to": "70 000 руб",
 	"term_from": "1",
@@ -207,7 +207,7 @@
      {
 	"name": "Moneyveo",
 	"age": "18-70",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/moneyveos.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/moneyveos.png",
     "rating": 4,
 	"sum_to": "30 000 грн",
 	"term_from": "1",
@@ -230,7 +230,7 @@
  {
 	"name": "MyCredit",
 	"age": "18-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/mycreditt.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/mycreditt.png",
     "rating": 4.9,
 	"sum_to": "15 000 грн",
 	"term_from": "1",
@@ -252,7 +252,7 @@
      {
 	"name": "Creditplus",
 	"age": "18-80",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/creditplusua.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/creditplusua.png",
     "rating": 5.0,
 	"sum_to": "12 000",
 	"term_from": "1",
@@ -272,7 +272,7 @@
    {
 	"name": "CreditKasa",
 	"age": "18-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/creditkasa.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/creditkasa.png",
     "rating": 4.7,
 	"sum_to": "15 000 руб",
 	"term_from": "1",
@@ -292,7 +292,7 @@
   {
 	"name": "E-groshi",
 	"age": "18-70",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/egroshii.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/egroshii.png",
     "rating": 4.9,
 	"sum_to": "15 000 руб",
 	"term_from": "1",
@@ -313,7 +313,7 @@
   {
 	"name": "SlonCredit",
 	"age": "18-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/sloncredit.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/sloncredit.png",
     "rating": 4.9,
 	"sum_to": "15 000 руб",
 	"term_from": "1",
