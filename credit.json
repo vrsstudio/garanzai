@@ -2,7 +2,7 @@
     {
 	"name": "Creditplus",
 	"age": "18-65",
-    "image_url": "https://garantcredits.ru/img/creditplusdae.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/AlexСredit.png",
     "rating": 4.9,
 	"sum_to": "12 000 грн",
 	"term_from": "1",
@@ -23,7 +23,7 @@
   {
 	"name": "MisterCash",
 	"age": "18-65",
-    "image_url": "https://garantcredits.ru/img/mistercash.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/mistercash.png",
     "rating": 4.9,
 	"sum_to": "15 000 грн",
 	"term_from": "1",
@@ -44,7 +44,7 @@
  {
 	"name": "AlexCredit",
 	"age": "21-65",
-    "image_url": "https://garantcredits.ru/img/AlexСredit.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/tenduass.png",
     "rating": 5,
 	"sum_to": "18 000 грн",
 	"term_from": "1",
@@ -64,7 +64,7 @@
   {
 	"name": "MyCredit",
 	"age": "18-70",
-    "image_url": "https://garantcredits.ru/img/mycrediua.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/mycrediua.png",
     "rating": 4.9,
 	"sum_to": "15 000 грн",
 	"term_from": "1",
@@ -86,7 +86,7 @@
   {
 	"name": "Credit7",
 	"age": "18-65",
-    "image_url": "https://garantcredits.ru/img/Credit7.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/Credit7.png",
     "rating": 4.8,
 	"sum_to": "10 000 грн",
 	"term_from": "1",
