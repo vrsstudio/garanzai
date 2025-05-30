@@ -1,6 +1,6 @@
 [
     {
-	"name": "Starfin UA",
+	"name": "Starfin",
 	"age": "18-70",
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/starfin.png",
     "rating": 4.9,
@@ -61,7 +61,7 @@
   	"text": "<p><strong>Lime-zaim</strong> <br/>Ставка от 0% на первый заем и от 0.34% на повторные займы. Сумма от 2 000 до 70 000</p>"
   },
   {
-	"name": "KACHA groshi",
+	"name": "KACHA grosh",
 	"age": "18-65",
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/kachagrosh.png",
     "rating": 4.7,
@@ -83,7 +83,7 @@
   {
 	"name": "AvansCredit",
 	"age": "18-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/ongroshi.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/prostocredit.png",
     "rating": 5.0,
 	"sum_to": "60 000 руб",
 	"term_from": "1",
