@@ -1,8 +1,8 @@
 [
     {
-	"name": "ПУМБ",
+	"name": "black card",
 	"price_info": "От 3% До 100 000 грн",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/sportbank.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/blcart.png",
     "sum": "500 - 100 000",
 	"term": "62 - 120",
 	"percent": "0,01% - 3,1%",
@@ -10,9 +10,9 @@
     "text": "<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 500 000 руб.</p>"
   },
   {
-	"name": "O.Bank UA",
+	"name": "debit card",
 	"price_info": "От 3% До 50 000 грн",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/sportbank.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/sinykart.png",
     "sum": "1000 - 200 000",
 	"term": "62 - 120",
 	"percent": "0,01% - 0,16%",
@@ -21,9 +21,9 @@
   },
   
   {
-	"name": "Sportbank (debit card)",
+	"name": "debit card",
 	"price_info": "От 5% До 200 000 руб",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/sportbank.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/zolkart.jpg",
     "sum": "500 - 100 000",
 	"term": "1 - 55",
 	"percent": "0,01% - 3,5%",
