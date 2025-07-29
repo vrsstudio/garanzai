@@ -1,22 +1,22 @@
 [{
     "logo": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-    "company_name": "Crédito hasta 1,000,000 ",
-    "loan_amount":"de 21 000 a 70 000 $",
-   "url": "https://google.com"
+    "company_name": "Tarjeta de Débito Platinum",
+    "loan_amount":"de 4 000 a 150 000 $",
+   "url": "https://www.mastercard.com/us/en/personal/find-a-card/credit-card/standard-mastercard.html"
   }
 ,
 
 {
     "logo": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-    "company_name": "Crédito para tus necesidades",
-    "loan_amount":"de 31 000 a 70 000 $",
-   "url": "https://google.com"
+    "company_name": "World Mastercard",
+    "loan_amount":"de 3 000 a 150 000 $",
+   "url": "https://www.mastercard.com/us/en/personal/find-a-card/credit-card/world-mastercard.html"
 }
 ,{
     "logo": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-    "company_name": "Crédito para lo que necesites",
-    "loan_amount":"de 31 000 a 70 000 $",
-   "url": "https://google.com"
+    "company_name": "World Elite Mastercard",
+    "loan_amount":"de 6 000 a 360 000 $",
+   "url": "https://www.mastercard.com/us/en/personal/find-a-card/credit-card/world-elite-mastercard.html"
   }
   
   
