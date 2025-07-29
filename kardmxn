@@ -1,5 +1,5 @@
 [{
-    "logo": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Mastercardmxnz.png",
     "company_name": "Tarjeta de Débito Platinum",
     "loan_amount":"de 4 000 a 150 000 $",
    "url": "https://www.mastercard.com/us/en/personal/find-a-card/credit-card/standard-mastercard.html"
@@ -7,13 +7,13 @@
 ,
 
 {
-    "logo": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/mastermnxx.png",
     "company_name": "World Mastercard",
     "loan_amount":"de 3 000 a 150 000 $",
    "url": "https://www.mastercard.com/us/en/personal/find-a-card/credit-card/world-mastercard.html"
 }
 ,{
-    "logo": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/masterxxmnx.png",
     "company_name": "World Elite Mastercard",
     "loan_amount":"de 6 000 a 360 000 $",
    "url": "https://www.mastercard.com/us/en/personal/find-a-card/credit-card/world-elite-mastercard.html"
