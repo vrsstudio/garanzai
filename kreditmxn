@@ -1,22 +1,77 @@
 [{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/cliccredito.png",
     "company_name": "Préstamos sin intereses",
-    "loan_amount":"Hasta 30 000 mxn",
-   "url": "https://appstopcredits.online/clicredito-mx/"
+    "loan_amount":"Hasta 8 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1r3268860a53d35ce"
   }
 ,
 
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/turbopesso.png",
-    "company_name": "Préstamos en 5 minutos",
-    "loan_amount":"Hasta 20 000 mxn",
-   "url": "https://appstopcredits.online/turbopeso-mx/"
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 30 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rcs6886099735b84"
   }
   ,
 
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/ultradinero.png",
-    "company_name": "Préstamos en 5 minutos",
-    "loan_amount":"Hasta 10 000 mxn",
-   "url": "https://appstopcredits.online/ultradinero-mx/"
-  }]
+    "company_name": "Préstamos rápidos y seguros",
+    "loan_amount":"Hasta 20 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rd868860982d0be0"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/vivus.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 12 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1ran68860a2251def"
+  }
+  ,
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/slanammx.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 5 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rb668860a1ac03c5"
+  }
+  ,
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/alvos.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 8 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rco688609a3175c0"
+  }
+  ,
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lanumx.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 35 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rcg688609c6d3ca0"
+  }
+  ,
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/abea.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 24 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rf06886094321179"
+  }
+  ,
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendswap.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 30 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1r8068860a2f57378"
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+]
