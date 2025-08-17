@@ -1,10 +1,17 @@
 [{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/holadinero-mx.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
     "company_name": "Solicita en 2 minutos!",
     "loan_amount":"Hasta 35 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1qai6891ae7b343eb"
+   "url": "https://tds.pdl-profit.com/h/1r2v6891ae7fa7931"
   }
 ,
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
+    "company_name": "Obtén dinero en línea gratis ahora",
+    "loan_amount":"Hasta 160 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
+  }
+  ,
 
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
@@ -20,13 +27,7 @@
     "loan_amount":"Hasta 20 000 mxn",
    "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
   },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
-    "company_name": "Obtén dinero en línea gratis ahora",
-    "loan_amount":"Hasta 160 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
-  }
-  ,
+
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
     "company_name": "Préstamo rápido para cubrir gastos imprevistos",
