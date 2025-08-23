@@ -1,8 +1,21 @@
 [
 {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finteresmx.png",
+    "company_name": "Solicita en 5 minutos!",
+    "loan_amount":"Hasta 120 000 $",
+   "url": "https://tds.pdl-profit.com/h/1qbj6891ae7bc6d92"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finzmomx.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 150 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1qoj6891ae7cf0f71"
+  }
+,
+{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/dineromonmx.png",
     "company_name": "Sin aval ni garantías",
-    "loan_amount":"Hasta 224 000 mxn",
+    "loan_amount":"Hasta 224 000 $",
    "url": "https://tds.pdl-profit.com/h/1qhv6891ae7c1ba4c"
   }
   ,
@@ -23,14 +36,6 @@
   ,
 
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/pezetitamx.png",
-    "company_name": "Préstamos sin intereses",
-    "loan_amount":"Hasta 150 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1qdr6891ae7b84be4"
-  }
-,
-
-{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/turbopesso.png",
     "company_name": "Sin aval ni garantías",
     "loan_amount":"Hasta 30 000 mxn",
@@ -38,12 +43,7 @@
   }
   ,
 
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/ultradinero.png",
-    "company_name": "Préstamos rápidos y seguros",
-    "loan_amount":"Hasta 20 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rd868860982d0be0"
-  },
+
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditozenmx.png",
     "company_name": "Sin aval ni garantías",
