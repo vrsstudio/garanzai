@@ -25,6 +25,12 @@
    "url": "https://tds.pdl-profit.com/h/1rb668860a1ac03c5"
   },
 {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/cozmomx.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 335 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rcm688609b053fb7"
+  },
+{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/dineromonmx.png",
     "company_name": "Préstamo sin complicaciones",
     "loan_amount":"Hasta 224 000 $",
@@ -47,12 +53,6 @@
     "company_name": "Sin aval ni garantías",
     "loan_amount":"Hasta 37 000 mxn",
    "url": "https://tds.pdl-profit.com/h/1qa16891ae7a019bb"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/cozmomx.png",
-    "company_name": "Sin aval ni garantías",
-    "loan_amount":"Hasta 335 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rcm688609b053fb7"
   }
 
 ]
