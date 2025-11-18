@@ -1,9 +1,9 @@
 [
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
-    "company_name": "Solicita en 2 minutos!",
-    "loan_amount":"Hasta 35 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1r2v6891ae7fa7931"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/alvos.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 8 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rco688609a3175c0"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
@@ -12,22 +12,10 @@
    "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/alvos.png",
-    "company_name": "Sin aval ni garantías",
-    "loan_amount":"Hasta 8 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rco688609a3175c0"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
-    "company_name": "Rápido y conveniente",
-    "loan_amount":"Hasta 30 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditosinmemx.png",
-    "company_name": "Recibe tu dinero en menos de 15 minutos",
-    "loan_amount":"Hasta 100 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1q116891ae7a90ca0"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+    "company_name": "Solicita en 2 minutos!",
+    "loan_amount":"Hasta 35 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1r2v6891ae7fa7931"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
@@ -36,10 +24,16 @@
    "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymarketmx.png",
-    "company_name": "Proceso 100% en linea",
-    "loan_amount":"Hasta 120 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rab6891ae808c54a"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
+    "company_name": "Préstamo rápido para cubrir gastos imprevistos",
+    "loan_amount":"Hasta 94 307 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rek68860968c840c"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditosinmemx.png",
+    "company_name": "Recibe tu dinero en menos de 15 minutos",
+    "loan_amount":"Hasta 100 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1q116891ae7a90ca0"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
@@ -48,10 +42,17 @@
    "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
-    "company_name": "Préstamo rápido para cubrir gastos imprevistos",
-    "loan_amount":"Hasta 94 307 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rek68860968c840c"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
+    "company_name": "Rápido y conveniente",
+    "loan_amount":"Hasta 30 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymarketmx.png",
+    "company_name": "Proceso 100% en linea",
+    "loan_amount":"Hasta 120 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rab6891ae808c54a"
   }
+
 
 ]
