@@ -3,21 +3,17 @@
     "company_name": "Nonocard",
     "loan_amount":"de 300 a 12 000 $",
    "url": "https://tds.pdl-profit.com/h/1rkh690efbf42055a"
-  }
-,
-
+  },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/credito365mx.png",
-    "company_name": "Credito365",
-    "loan_amount":"de 2 000 a 20 000 $",
-   "url": "https://tds.pdl-profit.com/h/1qq568860aad9702c"
-}
-,{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
+    "company_name": "Rápido y conveniente",
+    "loan_amount":"Hasta 30 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
+  },
+{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditwebmx.png",
     "company_name": "Kreditiweb",
     "loan_amount":"de 3 500 a 15 000 $",
    "url": "https://tds.pdl-profit.com/h/1qmj6891ae7c658be"
-  }
-  
-  
+  } 
 ]
