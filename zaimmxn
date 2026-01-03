@@ -17,6 +17,12 @@
     "loan_amount":"Hasta 40 000 mxn",
    "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
   },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/kueskimx.png",
+    "company_name": "Proceso 100% en linea",
+    "loan_amount":"Hasta 120 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rd66958e4576fd9c"
+  },
 
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
@@ -42,13 +48,8 @@
     "company_name": "Sin aval ni garantías",
     "loan_amount":"Hasta 24 000 mxn",
    "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymarketmx.png",
-    "company_name": "Proceso 100% en linea",
-    "loan_amount":"Hasta 120 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rab6891ae808c54a"
   }
+
 
 
 ]
