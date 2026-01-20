@@ -10,14 +10,14 @@
  "url": "https://www.tbank.ru/loans/cash-loan/",
  },
 {
- "age": "21-65",
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/renessans.png",
+ "age": "20-65",
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/genbankruu.png",
       "name": "Ренессанс",
      "rating": 5,
      "percent": "0%",
-	"sum_one": "до 15 000 руб",
- "days_info": "до 189 дней",
- "url": "https://anketa.rencredit.ru/app/credit/site/?utm_referrer=https%3a%2f%2frencredit.ru%2f#anketa",
+	"sum_one": "до 4 000 000 руб",
+ "days_info": "до 205 дней",
+ "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening",
  },
 {
  "age": "18-65",
@@ -25,8 +25,8 @@
       "name": "Совком Банк",
      "rating": 5,
      "percent": "0%",
-	"sum_one": "до 90 000 руб",
- "days_info": "до 360 дней",
+	"sum_one": "до 3 000 000 руб",
+ "days_info": "до 245 дней",
  "url": "https://sovcombank.ru/credits/cash",
  }
 
