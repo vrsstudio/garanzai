@@ -1,32 +1,4 @@
 [
- 
-
-  {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
-    "name": "Екапуста",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 30 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=novykartd",
-    "email": "info@ekapusta.ru",
-    "address": "Онлайн-сервис Екапуста",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 10 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
- 
-
 {
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
     "name": "Быстроденьги",
@@ -51,8 +23,7 @@
     "kruglosutochno": true
   },
 
-
-  {
+{
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
     "name": "MoneyMan",
     "rating": 5,
@@ -75,33 +46,6 @@
     "zafiveminut": true,
     "kruglosutochno": true
   },
-
-{
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/weeb.png",
-    "name": "Веббанкир",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 15 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://pxl.leads.su/click/474d081f8d44e4c47f89278fc7addcb0?aff_sub1=novykartd&erid=2W5zFHHkYTA",
-    "email": "support@srochnodengi.ru",
-    "address": "Онлайн-сервис СрочноДеньги",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 10 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
- 
-
-
 
 
 {
@@ -152,6 +96,118 @@
     "zafiveminut": true,
     "kruglosutochno": true
   },
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
+    "name": "Займер",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 100 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=novykartd",
+    "email": "info@zaimer.ru",
+    "address": "Онлайн-сервис Займер",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+ 
+
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
+    "name": "Екапуста",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=novykartd",
+    "email": "info@ekapusta.ru",
+    "address": "Онлайн-сервис Екапуста",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+ 
+
+
+
+  
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/weeb.png",
+    "name": "Веббанкир",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 15 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/474d081f8d44e4c47f89278fc7addcb0?aff_sub1=novykartd&erid=2W5zFHHkYTA",
+    "email": "support@srochnodengi.ru",
+    "address": "Онлайн-сервис СрочноДеньги",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+ 
+
+ {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",
+    "name": "Lime-Zaim",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 100 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/c88d0bfa4f20b118ecf623ee0f2a43ba?aff_sub1=novykartd",
+    "email": "support@lime-zaim.ru",
+    "address": "Онлайн-сервис Lime",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
+
+
+
+
 
 
  {
@@ -279,59 +335,6 @@
     "zafiveminut": true,
     "kruglosutochno": true
   },
-
-
-
-  {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",
-    "name": "Lime-Zaim",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 100 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://trkleads.ru/click/c88d0bfa4f20b118ecf623ee0f2a43ba?aff_sub1=novykartd",
-    "email": "support@lime-zaim.ru",
-    "address": "Онлайн-сервис Lime",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 10 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-
-{
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
-    "name": "Займер",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 100 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=novykartd",
-    "email": "info@zaimer.ru",
-    "address": "Онлайн-сервис Займер",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 10 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-
 
 
 
