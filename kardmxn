@@ -1,19 +1,20 @@
 [{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiliamx.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
     "company_name": "Creditilia",
-    "loan_amount":"de 300 a 12 000 $",
-   "url": "https://tds.pdl-profit.com/h/1rfu6958e46ec5d86"
+    "loan_amount":"de 300 a 45 000 $",
+   "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
   },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
+    "company_name": "Solinia",
+    "loan_amount":"de 3 500 a 23 000 $",
+   "url": "https://tds.pdl-profit.com/h/1rek68860968c840c"
+  } ,
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
     "company_name": "Rápido y conveniente",
     "loan_amount":"Hasta 30 000 mxn",
    "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
-    "company_name": "Solinia",
-    "loan_amount":"de 3 500 a 15 000 $",
-   "url": "https://tds.pdl-profit.com/h/1rek68860968c840c"
-  } 
+  }
+
 ]
