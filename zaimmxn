@@ -5,18 +5,36 @@
     "loan_amount":"Hasta 160 000 mxn",
    "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
+    "company_name": "Solicita en 2 minutos!",
+    "loan_amount":"Hasta 100 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/kueskimx.png",
+    "company_name": "Proceso 100% en linea",
+    "loan_amount":"Hasta 120 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rd66958e4576fd9c"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 80 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+    "company_name": "Solicita en 2 minutos!",
+    "loan_amount":"Hasta 90 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1r306891ae80d592a"
+  },
 
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
     "company_name": "Obtén dinero en línea gratis ahora",
     "loan_amount":"Hasta 80 000 mxn",
    "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
-    "company_name": "Solicita en 2 minutos!",
-    "loan_amount":"Hasta 35 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1r2v6891ae7fa7931"
   },
 
 {
@@ -32,24 +50,14 @@
     "loan_amount":"Hasta 40 000 mxn",
    "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
   },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/kueskimx.png",
-    "company_name": "Proceso 100% en linea",
-    "loan_amount":"Hasta 120 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rd66958e4576fd9c"
-  },
+
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
     "company_name": "Recibe tu dinero en menos de 10 minutos",
     "loan_amount":"Hasta 20 000 mxn",
    "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
-    "company_name": "Sin aval ni garantías",
-    "loan_amount":"Hasta 24 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
   }
+
 
 
 
