@@ -1,0 +1,29 @@
+[
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/bbvacols.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 122 000 mxn",
+   "url": "https://www.bbva.mx/personas/productos/creditos/prestamos-personales/adelanto-de-sueldo.html"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Banamex.png",
+    "company_name": "Obtén dinero en línea gratis ahora",
+    "loan_amount":"Hasta 167 000 mxn",
+   "url": "https://www.banamex.com/es/personas/creditos/credito-personal.html?lid=MX|index-H1-Information-IrCreditoPersonal-ES"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_hsbc.png",
+    "company_name": "Solicita en 2 minutos!",
+    "loan_amount":"Hasta 90 000 mxn",
+   "url": "https://www.hsbc.com.mx/creditos/personales/nomina/"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_santander_rojo.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 119 000 mxn",
+   "url": "https://www.santander.com.mx/personas/creditos-personales.html"
+
+  }
+
+
+]
