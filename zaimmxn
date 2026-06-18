@@ -1,63 +1,70 @@
 [
 {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/crezu.png",
+    "company_name": "Solicita en 2 minutos!",
+    "loan_amount":"Hasta 65 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1pfn6891ae792d164"
+  },
+{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
     "company_name": "Obtén dinero en línea gratis ahora",
-    "loan_amount":"Hasta 160 000 mxn",
+    "loan_amount":"Hasta 110 000 mxn",
    "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
-    "company_name": "Solicita en 2 minutos!",
-    "loan_amount":"Hasta 100 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
-    "company_name": "Solicita en 2 minutos!",
-    "loan_amount":"Hasta 90 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1r306891ae80d592a"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
-    "company_name": "Préstamo rápido para cubrir gastos imprevistos",
-    "loan_amount":"Hasta 94 307 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rek68860968c840c"
-  },
-{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/F2MX.png",
     "company_name": "Obtén dinero en línea gratis ahora",
-    "loan_amount":"Hasta 80 000 mxn",
+    "loan_amount":"Hasta 97 000 mxn",
    "url": "https://tds.pdl-profit.com/h/1rs969ce74dd08938"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiomx.png",
-    "company_name": "Solicita sin salir de casa",
-    "loan_amount":"Hasta 120 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/F2MX.png",
-    "company_name": "Más rápido de lo que imaginas",
-    "loan_amount":"Hasta 120 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rs969ce74dd08938"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/letocredit.png",
-    "company_name": "Proceso 100% en linea",
-    "loan_amount":"Hasta 120 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
-    "company_name": "Sin aval ni garantías",
-    "loan_amount":"Hasta 80 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
     "company_name": "Obtén dinero en línea gratis ahora",
     "loan_amount":"Hasta 80 000 mxn",
    "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/optocreditomx.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 90 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rqv6a2923757b218"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lemonzamx.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 85 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiomx.png",
+    "company_name": "Solicita sin salir de casa",
+    "loan_amount":"Hasta 76 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/letocredit.png",
+    "company_name": "Proceso 100% en linea",
+    "loan_amount":"Hasta 47 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rhi6909cc45b9f28"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 90 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
+    "company_name": "Préstamo rápido para cubrir gastos imprevistos",
+    "loan_amount":"Hasta 45 600 mxn",
+   "url": "https://tds.pdl-profit.com/h/1rek68860968c840c"
+  },
+
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 24 000 mxn",
+   "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
