@@ -23,15 +23,6 @@
  "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
 },
 {
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/crezu.png",
- "rating": 5,
-   "obran":"5 (987 votos)",
-	"sum_one": "de $1,000 a $86,000",
-	"odobrenie": "Alta",
- "url": "https://tds.pdl-profit.com/h/1pfn6891ae792d164"
-},
-
-{
 "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/lemonzamx.png",
  "rating": 5,
    "obran":"5 (854 votos)",
@@ -70,11 +61,19 @@
  "url": "https://tds.pdl-profit.com/h/1r306891ae80d592a"
 },
 {
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/kueskimx.png",   
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/crezu.png",
+ "rating": 5,
+   "obran":"5 (987 votos)",
+	"sum_one": "de $1,000 a $86,000",
+	"odobrenie": "Alta",
+ "url": "https://tds.pdl-profit.com/h/1pfn6891ae792d164"
+},
+{
+"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/creditnicemx.png",   
      "rating": 5,
  "obran":"5 (865 votos)",
 "sum_one": "de $5,00 a $40,000",
- "url": "https://track-pdlp.com/h/1rd66958e4576fd9c"
+ "url": "https://track-pdlp.com/h/1qpt68860acb2cf74"
 },
 {
 "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/finolomx.png",
