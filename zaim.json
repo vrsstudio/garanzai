@@ -1,15 +1,15 @@
 [
   {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/amio.jpg",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
     "name": "Amigo",
     "rating": 5,
     "age": "18-70",
     "percent": "до 1%",
-    "sum_one": "до 25 000 ₴",
+    "sum_one": "до 7 000 000 ₴",
     "sum_min": "від 500 ₴",
     "days_info": "90–360 днів",
     "term_to": "360",
-    "url": "https://ten.finme.com/click?pid=47&offer_id=167&sub3=kr",
+    "url": "https://www.vtb.ru/personal/kredit/nalichnymi/",
     "email": "info@amigo.com.ua",
     "address": "04107, м. Київ, вул. Багговутівська, 17-21",
     "work_time": "24/7 онлайн, служба підтримки 09:00-20:00",
@@ -23,7 +23,7 @@
     "kruglosutochno": true
   },
   {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/plus.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/renessans.png",
     "name": "Loan+",
     "rating": 5,
     "age": "18-65",
@@ -32,7 +32,7 @@
     "sum_min": "от 500 ₴",
     "days_info": "90–360 днів",
     "term_to": "80",
-    "url": "https://loanplus.com.ua/?utm_source=alexapp&utm_medium=affiliate&utm_campaign=app",
+    "url": "https://anketa.rencredit.ru/app/credit/site/?utm_referrer=https%3a%2f%2frencredit.ru%2f#anketa",
     "email": "support@loanplus.com.ua",
     "address": "04080, м. Київ, вул. Константинівська, 75, офіс 601А",
     "work_time": "24/7 онлайн",
@@ -46,7 +46,7 @@
     "kruglosutochno": true
   },
   {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/miloo.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/sovkobank.png",
     "name": "Miloan",
     "rating": 5,
     "age": "18–70",
@@ -55,7 +55,7 @@
     "sum_min": "від 500 ₴",
     "days_info": "від 90 до 360 днів",
     "term_to": "360",
-    "url": "https://ten.finme.com/click?pid=47&offer_id=165&sub3=kre",
+    "url": "https://sovcombank.ru/credits/cash",
     "email": "info@miloan.ua",
     "address": null,
     "work_time": "24/7 онлайн, підтримка 09:00–20:00",
@@ -67,28 +67,6 @@
     "nakartu": true,
     "zafiveminut": true,
     "kruglosutochno": true
-  },
-  {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/tng.png",
-    "name": "Tengo",
-    "rating": 5,
-    "age": "18–70",
-    "percent": "0,01%",
-    "sum_one": "до 15 000 ₴",
-    "sum_min": "от 500 ₴",
-    "days_info": "90–360 днів",
-    "term_to": "360",
-    "url": "https://ten.finme.com/click?pid=47&offer_id=166&sub3=kre",
-    "email": "info@tengo.ua",
-    "address": "04107, м. Київ, вул. Багговутівська, 17-21",
-    "work_time": "24/7 онлайн, підтримка 09:00–20:00",
-    "license": "ІК № 176 (свідоцтво), видано 14.07.2016",
-    "scorost": "до 15 хвилин (повторно — ~5 хвилин)",
-    "dokuments": "паспорт + ІПН",
-    "sposob": "онлайн (BankID, карта)",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
   }
+  
 ]
