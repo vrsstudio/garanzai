@@ -1,33 +1,34 @@
 [
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnicemx.png",
+    "company_name": "Proceso 100% en linea",
+    "loan_amount":"Hasta 80 000 mxn",
+   "url": "https://track-pdlp.com/h/1qpt68860acb2cf74"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finteresmx.png",
+    "company_name": "Recibe tu dinero en menos de 10 minutos",
+    "loan_amount":"Hasta 90 000 mxn",
+   "url": "https://track-pdlp.com/h/1qbj6891ae7bc6d92"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiliamx.png",
     "company_name": "Sin aval ni garantías",
     "loan_amount":"Hasta 85 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61"
+   "url": "https://track-pdlp.com/h/1rfu6958e46ec5d86"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymarketmx.png",
+    "company_name": "Solicita desde tu móvil",
+    "loan_amount":"Hasta 95 000 mxn",
+   "url": "https://track-pdlp.com/h/1rab6891ae808c54a"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
     "company_name": "Transparente y seguro",
     "loan_amount":"Hasta 150 000 mxn",
    "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
-    "company_name": "Proceso 100% en linea",
-    "loan_amount":"Hasta 800 000 mxn",
-   "url": "https://track-pdlp.com/h/1rim690bd23d7d845"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
-    "company_name": "Solicita desde tu móvil",
-    "loan_amount":"Hasta 24 000 mxn",
-   "url": "https://track-pdlp.com/h/1qd668860ad3170b1"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
-    "company_name": "Recibe tu dinero en menos de 10 minutos",
-    "loan_amount":"Hasta 20 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
   }
+
 
 ]
