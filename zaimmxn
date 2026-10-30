@@ -1,53 +1,94 @@
 [
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lemonzamx.png",
-    "company_name": "Obtén dinero en línea gratis ahora",
-    "loan_amount":"Hasta 97 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lemonzamx.png",
+    "name": "Dinero para cualquier propósito",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 50 000 mxn",
+    "url": "https://tds.pdl-profit.com/h/1ro96958e436cbd54"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
-    "company_name": "Proceso 100% en linea",
-    "loan_amount":"Hasta 47 000 mxn",
-   "url": "https://track-pdlp.com/h/1qd668860ad3170b1"
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
+    "name": "Solicita tu préstamo en 5 minutos",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 15 000 $",
+    "url": "https://track-pdlp.com/h/1qd668860ad3170b1"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
-    "company_name": "Obtén dinero en línea gratis ahora",
-    "loan_amount":"Hasta 110 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
+    "name": "Crédito rápido sin papeleo",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 19 000 $",
+    "url": "https://tds.pdl-profit.com/h/1r0a688d303ee60a9"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
-    "company_name": "Préstamo rápido para cubrir gastos imprevistos",
-    "loan_amount":"Hasta 45 600 mxn",
-   "url": "https://track-pdlp.com/h/1qqb68860a98229aa"
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
+    "name": "Tu préstamo aprobado en minutos",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 50 000 $",
+    "url": "https://track-pdlp.com/h/1qqb68860a98229aa"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
-    "company_name": "Obtén dinero en línea gratis ahora",
-    "loan_amount":"Hasta 80 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1r306891ae80d592a"
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditioes.png",
+    "name": "Dinero al instante en tu tarjeta",
+    "rating": 5,
+    "age": "desde 18 años",
+    "sum_one": "de 1 500 a 30 000 $",
+    "odobrenie": "Alta",
+    "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiomx.png",
-    "company_name": "Solicita sin salir de casa",
-    "loan_amount":"Hasta 76 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1rf26a0f0233ad855"
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpaymx.png",
+    "name": "Montos flexibles desde $1,000 hasta $50,000 MXN",
+    "rating": 5,
+    "age": "desde 18 años",
+    "sum_one": "de 1 000 a 45 000 $",
+    "odobrenie": "Alta",
+    "url": "https://track-pdlp.com/h/1s6f6ae391c7dae98"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnicemx.png",
-    "company_name": "Proceso 100% en linea",
-    "loan_amount":"Hasta 80 000 mxn",
-   "url": "https://track-pdlp.com/h/1qpt68860acb2cf74"
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+    "name": "Tu solicitud lista en pocos minutos",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 150 000 $",
+    "url": "https://track-pdlp.com/h/1r306891ae80d592a"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
-    "company_name": "Sin aval ni garantías",
-    "loan_amount":"Hasta 90 000 mxn",
-   "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnicemx.png",
+    "name": "Resuelve hoy, paga después",
+    "rating": 5,
+    "age": "desde 18 años",
+    "sum_one": "de 1 000 a 51 000 $",
+    "odobrenie": "Alta",
+    "url": "https://track-pdlp.com/h/1qpt68860acb2cf74"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/amigoslonmxn.png",
+    "name": "Haz tu solicitud en línea ya",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 1 000 a 90 000 mxn",
+    "url": "https://tds.pdl-profit.com/h/1qne6891ae7ca7b77"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
+    "name": "Dinero rápido cuando lo necesitas",
+    "rating": 5,
+    "age": "desde 18 años",
+    "sum_one": "de 1 500 a 35 000 $",
+    "odobrenie": "Alta",
+    "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839"
   }
-
 
 
 
