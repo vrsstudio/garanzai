@@ -6,10 +6,22 @@
    "url": "https://track-pdlp.com/h/1ro96958e436cbd54?subid=mx4"
   },
 {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditioes.png",
+    "company_name": "Dinero al instante en tu tarjeta",
+    "loan_amount":"Hasta 30 000 $",
+   "url": "https://track-pdlp.com/h/1rf26a0f0233ad855?subid=mx4"
+  },
+{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymarketmx.png",
     "company_name": "Solicita desde tu móvil",
     "loan_amount":"Hasta 95 000 mxn",
    "url": "https://track-pdlp.com/h/1rab6891ae808c54a?subid=mx4"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
+    "company_name": "Tu préstamo aprobado en minutos",
+    "loan_amount":"Hasta 50 000 $",
+   "url": "https://track-pdlp.com/h/1qqb68860a98229aa?subid=mx4"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
@@ -30,16 +42,10 @@
    "url": "https://track-pdlp.com/h/1qqb68860a98229aa?subid=mx4"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditioes.png",
-    "company_name": "Dinero al instante en tu tarjeta",
-    "loan_amount":"Hasta 30 000 $",
-   "url": "https://track-pdlp.com/h/1rf26a0f0233ad855?subid=mx4"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpaymx.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
     "company_name": "Montos flexibles desde $1,000 hasta $50,000 MXN",
     "loan_amount":"Hasta 95 000 mxn",
-   "url": "https://track-pdlp.com/h/1s6f6ae391c7dae98?subid=mx4"
+   "url": "https://track-pdlp.com/h/1rek68860968c840c?subid=mx4"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
